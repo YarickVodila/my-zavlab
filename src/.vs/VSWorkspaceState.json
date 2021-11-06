@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Components",
+    "\\Pages"
   ],
+  "SelectedNode": "\\Pages\\Home1.js",
   "PreviewInSolutionExplorer": false
 }
