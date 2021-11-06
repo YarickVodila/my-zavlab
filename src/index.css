@@ -66,7 +66,7 @@ code {
 .number {
     position: fixed;
     padding-left: 18%;
-    padding-top: 120px;
+    padding-top: 8.5%;
     width: 600px;
     height: 389px;
     font-family: Montserrat;
@@ -84,7 +84,7 @@ code {
     width: 155px;
     height: 35px;
     padding-left: 55%;
-    padding-top: 190px;
+    padding-top: 14.3%;
     font-family: Montserrat;
     font-style: normal;
     font-weight: normal;
@@ -101,7 +101,7 @@ code {
     width: 155px;
     height: 35px;
     padding-left: 55%;
-    padding-top: 260px;
+    padding-top: 19.6%;
     font-family: Montserrat;
     font-style: normal;
     font-weight: normal;
@@ -118,7 +118,7 @@ code {
     width: 155px;
     height: 35px;
     padding-left: 55%;
-    padding-top: 330px;
+    padding-top: 24.5%;
     font-family: Montserrat;
     font-style: normal;
     font-weight: normal;
@@ -132,51 +132,22 @@ code {
 
 .statusDoor {
     position: fixed;
-    width: 70px;
-    height: 30px;
     padding-left: 65%;
-    padding-top: 190px;
-    font-family: Montserrat;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 28px;
-    line-height: 34px;
-    /* identical to box height */
-    letter-spacing: 0.06em;
-    color: #FFFFFF;
+    padding-top: 13.4%;
     user-select: none;
 }
 
 .statusWindow {
     position: fixed;
-    width: 70px;
-    height: 30px;
     padding-left: 65%;
-    padding-top: 260px;
-    font-family: Montserrat;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 28px;
-    line-height: 34px;
-    /* identical to box height */
-    letter-spacing: 0.06em;
-    color: #FFFFFF;
+    padding-top: 18.7%;
     user-select: none;
 }
 
 .statusLight {
-    position: fixed;
-    width: 70px;
-    height: 30px;
+    position: fixed; 
     padding-left: 65%;
-    padding-top: 330px;
-    font-family: Montserrat;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 28px;
-    line-height: 34px;
-    /* identical to box height */
-    letter-spacing: 0.06em;
-    color: #FFFFFF;
+    padding-top: 23.5%;
     user-select: none;
 }
+
