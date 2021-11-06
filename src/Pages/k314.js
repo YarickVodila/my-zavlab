@@ -6,24 +6,27 @@ import Close from './close.svg';
 
 export default class k314 extends Component {
     render() {
-        var k1 = On, k2 = Open, k3 = Open;
+        var k1 = On, k2 = Open, k3 = Open, buf314;
         function status(d, w, l) {
             if (d == 1) {
                 k1 = Open;
+                buf314 += 1;
             } else {
                 k1 = Close;
             }
             if (w == 1) {
                 k2 = Open;
+                buf314 += 1;
             } else {
                 k2 = Close;
             }
             if (l == 1) {
                 k3 = On;
+                buf314 += 1;
             } else {
                 k3 = Off;
             }
-            return k1, k2, k3;
+            return k1, k2, k3, buf314;
         }
 
         status(0, 0,1);

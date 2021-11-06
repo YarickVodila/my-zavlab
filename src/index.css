@@ -66,7 +66,7 @@ code {
 .number {
     position: fixed;
     padding-left: 18%;
-    padding-top: 8.5%;
+    padding-top: 115px;
     width: 600px;
     height: 389px;
     font-family: Montserrat;
@@ -84,7 +84,7 @@ code {
     width: 155px;
     height: 35px;
     padding-left: 55%;
-    padding-top: 14.3%;
+    padding-top: 190px;
     font-family: Montserrat;
     font-style: normal;
     font-weight: normal;
@@ -101,7 +101,7 @@ code {
     width: 155px;
     height: 35px;
     padding-left: 55%;
-    padding-top: 19.6%;
+    padding-top: 260px;
     font-family: Montserrat;
     font-style: normal;
     font-weight: normal;
@@ -118,7 +118,7 @@ code {
     width: 155px;
     height: 35px;
     padding-left: 55%;
-    padding-top: 24.5%;
+    padding-top: 330px;
     font-family: Montserrat;
     font-style: normal;
     font-weight: normal;
@@ -133,21 +133,21 @@ code {
 .statusDoor {
     position: fixed;
     padding-left: 65%;
-    padding-top: 13.4%;
+    padding-top: 178px;
     user-select: none;
 }
 
 .statusWindow {
     position: fixed;
     padding-left: 65%;
-    padding-top: 18.7%;
+    padding-top: 247px;
     user-select: none;
 }
 
 .statusLight {
     position: fixed; 
-    padding-left: 65%;
-    padding-top: 23.5%;
+    padding-left: 65.5%;
+    padding-top: 310px;
     user-select: none;
 }
 
